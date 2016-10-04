@@ -1,0 +1,9 @@
+bin/
+lib/
+include/
+upload/*
+!upload/.gitkeep
+
+package.zip
+pip-selfcheck.json
+.Python
